@@ -1,0 +1,4 @@
+/your-project-directory
+    index.html
+    styles.css
+    scripts.js
